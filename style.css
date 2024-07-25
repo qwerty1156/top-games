@@ -1,0 +1,71 @@
+body{
+ background: linear-gradient(#9932CC,#FD349C,#FEF250)
+}
+.cyberpunk{											
+ border: 8px #FEF250;
+}
+.fortnite{
+ border: 8px #FEF250;
+}
+.punk{
+	margin-left: 450px;
+	border: 6px solid #FD349C;
+	box-shadow: 0 0 20px #FD349C;
+	transition: 2s;
+	transition-duration: 2s;
+}
+.nite{
+	margin-left: 450px;
+	border: 6px solid #FEF250;
+	box-shadow: 0 0 20px #FEF250;
+	transition: 4s;
+	transition-duration: 4s;
+}
+.punk:hover{
+	margin-left: 850px;
+	background:linear-gradient(to bottom right, green,pink);
+	font-size: 100px;
+	transform: rotate(360deg);
+	border-radius: 10px;
+}
+.nite:hover{
+	margin-left: 50px;
+	background:linear-gradient(to bottom left, green,pink);
+	font-size: 100px;
+	transform: rotate(360deg);
+	border-radius: 10px;
+	box-shadow: 0 0 20px #FD349C;
+}
+.brawl{
+	margin-left: 450px;
+	border: 6px solid #FD349C;
+	box-shadow: 0 0 20px #FD349C;
+	transition: 1s;
+	transition-duration: 1s;
+}
+.brawl:hover{
+	background-color: Coral;
+	font-size: 100px;
+	border-radius: 40px;
+	box-shadow: 0 0 20px Magenta;
+}
+.texts{
+ text-align: center; 
+ transition: 0.4s;
+ transition-duration: 0.4s;
+}
+.texts:hover{
+ text-align: center;
+ color: white;
+ text-shadow: 0 0 15px black;
+
+}
+.text{
+	text-align: center;
+	transition: 0.5s;
+ 	transition-duration: 0.5s;
+}
+.text:hover{
+	text-align: center;
+	text-shadow: 0 0 15px black;
+}
